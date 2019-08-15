@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/b00rch/cc3_parser.git"
+    "url": "git+ssh://git@github.com:b00rch/css3_parser.git"
   },
   "keywords": [
     "css",
@@ -21,7 +21,7 @@
   "author": "Boorch",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/b00rch/cc3_parser/issues"
+    "url": "https://github.com/b00rch/css3_parser/issues"
   },
-  "homepage": "https://github.com/b00rch/cc3_parser#readme"
+  "homepage": "https://github.com/b00rch/css3_parser#readme"
 }
