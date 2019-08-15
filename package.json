@@ -1,0 +1,27 @@
+{
+  "name": "css3_parser",
+  "version": "1.0.0",
+  "description": "CSS3 with nested rule",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha specs/**/*_specs.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/b00rch/cc3_parser.git"
+  },
+  "keywords": [
+    "css",
+    "css3",
+    "parser"
+  ],
+  "author": "Boorch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/b00rch/cc3_parser/issues"
+  },
+  "homepage": "https://github.com/b00rch/cc3_parser#readme"
+}
